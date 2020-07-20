@@ -1,0 +1,6 @@
+framework module Pods_Test_Multi_SliderTests {
+  umbrella header "Pods-Test Multi SliderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
